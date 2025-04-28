@@ -1,2 +1,2 @@
 @echo off
-start /B dotnet PLM_API.dll --urls "http://0.0.0.0:5000"
+start /B dotnet WebApi.dll --urls "http://0.0.0.0:5000"
